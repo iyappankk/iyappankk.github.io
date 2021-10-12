@@ -23,6 +23,7 @@ h4{
         background-repeat: no-repeat no-repeat;
         background-size: cover;
         background-position: center;
+        background-attachment: fixed;
     }
     h4 {
         font-size: 20px;
